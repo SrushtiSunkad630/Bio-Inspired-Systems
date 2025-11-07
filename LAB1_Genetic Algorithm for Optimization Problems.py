@@ -1,4 +1,4 @@
-mport random
+import random
 
 # Parameters
 POP_SIZE = 6
